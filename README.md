@@ -15,4 +15,4 @@ Herhangi bir yönetim sayfası bulunmuyor, doğrudan ön yüz tasarımıdır.
 
 Tasarım tamamen tasarımca yapılmış olup, satılması veya izinsiz paylaşılması kesinlikle yasaktır.
 
-Kaynaığımı ziyaret ettiğiniz için teşekkürler.
+Çalışmamı ziyaret ettiğiniz için teşekkürler.
