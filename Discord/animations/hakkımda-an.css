@@ -1,0 +1,110 @@
+@keyframes box{
+	from{
+		position: absolute;
+		top: 25px;
+	}
+	to{
+		position: absolute;
+		top: 50px;
+	}
+}
+@keyframes image{
+	from{
+		position: absolute;
+		top: 175px;
+	}
+	to{
+		position: absolute;
+		top: 200px;
+	}
+}
+@keyframes info{
+	from{
+		position: absolute;
+		top: 115px;
+	}
+	to{
+		position: absolute;
+		top: 90px;
+	}
+}
+@keyframes box2{
+	from{
+		position: absolute;
+		top: 375px;
+	}
+	to{
+		position: absolute;
+		top: 400px;
+	}
+}
+@keyframes image2{
+	from{
+		position: absolute;
+		top: 505px;
+	}
+	to{
+		position: absolute;
+		top: 530px;
+	}
+}
+@keyframes info2{
+	from{
+		position: absolute;
+		top: 625px;
+	}
+	to{
+		position: absolute;
+		top: 600px;
+	}
+}
+@keyframes box3{
+	from{
+		position: absolute;
+		top: 850px;
+	}
+	to{
+		position: absolute;
+		top: 875px;
+	}
+}
+@keyframes image3{
+	from{
+		position: absolute;
+		top: 1000px;
+	}
+	to{
+		position: absolute;
+		top: 1025px;
+	}
+}
+@keyframes info3{
+	from{
+		position: absolute;
+		top: 925px;
+	}
+	to{
+		position: absolute;
+		top: 900px;
+	}
+}
+@keyframes box4{
+	from{
+		position: absolute;
+		top: 1175px;
+	}
+	to{
+		position: absolute;
+		top: 1200px;
+	}
+}
+@keyframes image4{
+	from{
+		position: absolute;
+		top: 1320px;
+	}
+	to{
+		position: absolute;
+		top: 1345px;
+	}
+}
