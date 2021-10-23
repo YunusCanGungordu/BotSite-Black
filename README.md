@@ -1,18 +1,18 @@
 # BotSite-Black
 
-Discord bot geliştircileri için ücretsiz ve basit bir site tasarımı.
-Php bilen arkadaşlar tasarımla beraber yönetilebilir bir site ortaya koyabilir.
+Free web site theme for discord & and web developers
+Those who know php can edit this project and make dinamic web site.
 
-• Ana Sayfa
-• Hakkında
-• Destek
+- Home
+- About
+- Support
 
-sayfaları bulunmaktadır. 
+pages exist. 
 
-Tasarım açısından bir şeyler katmak için güzel hoverlar ve animasyonlar da ekledim. :)
-Kaynak kodlarındaki metinleri ve linkleri düzenleyerek kendi kullanımınıza hazırlayabilirsiniz.
-Herhangi bir yönetim sayfası bulunmuyor, doğrudan ön yüz tasarımıdır.
+I added some hovers and animations so that it can look pretty good.
+You can prepare it by edit codes and text on source code.
+There is no any manage page, so it's only front end design.
 
-Tasarım tamamen tasarımca yapılmış olup, satılması veya izinsiz paylaşılması kesinlikle yasaktır.
+This work is made by me fully, **it is forbidden that selling or sharing without permission.**
 
-Çalışmamı ziyaret ettiğiniz için teşekkürler.
+Thanks for your visiting. 
