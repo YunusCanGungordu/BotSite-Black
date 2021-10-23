@@ -10,5 +10,3 @@ function görünebilir(){
             console.log("Kullanıcı destek bilgerini kapattı.");
     }
 }
-
-console.log("Sayfa yüklendi.");
